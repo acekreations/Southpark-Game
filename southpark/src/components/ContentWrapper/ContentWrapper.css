@@ -1,0 +1,9 @@
+.wrapperDiv {
+    margin-top: 5vh;
+    max-width: 900px;
+}
+
+.card {
+    width: 200px;
+    margin: 20px;
+}
