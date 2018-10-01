@@ -57,7 +57,6 @@ class App extends Component {
     return (
       <Wrapper>
         <Header message={this.state.message} score={this.state.score} highScore={this.state.highScore} />
-        
         <div className={cardWrapperClasses}>
           {this.state.imageArr.map(image => (
             <Cards key={image.id} id={image.id} link={image.link} onClick={() => this.guess(image.id)} />
