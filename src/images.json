@@ -1,38 +1,50 @@
 [
     { 
         "id": 0,
-        "link": "/images/kyle.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kyle-broflovski.png?height=165"
     },
     { 
         "id": 1,
-        "link": "/images/stan.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/kids/stan-marsh.png?height=165"
     },
     { 
         "id": 2,
-        "link": "/images/chef.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/adults/chef.png?height=165"
     },
     { 
         "id": 3,
-        "link": "/images/cartman.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/kids/eric-cartman.png?height=165"
     },
     { 
         "id": 4,
-        "link": "/images/jimmy.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/kids/jimmy-valmer.png?height=165"
     },
     { 
         "id": 5,
-        "link": "/images/timmy.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/kids/timmy-burch.png?height=165"
     },
     { 
         "id": 6,
-        "link": "/images/butters.png"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/kids/butters-stotch.png?height=165"
     },
     { 
         "id": 7,
-        "link": "/images/randy.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/adults/randy-marsh.png?height=165"
     },
     { 
         "id": 8,
-        "link": "/images/kenny.jpg"
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kenny-mccormick.png?height=165"
+    },
+    {
+        "id": 9,
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/adults/education-pc-principal.png?height=165"
+    },
+    {
+        "id": 10,
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/adults/mackey.png?height=165"
+    },
+    {
+        "id": 11,
+        "link": "http://southparkstudios.mtvnimages.com/shared/characters/adults/sharon-marsh.png?height=165"
     }
 ]
