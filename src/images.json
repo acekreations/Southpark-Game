@@ -1,0 +1,38 @@
+[
+    { 
+        "id": 0,
+        "link": "/images/kyle.jpg"
+    },
+    { 
+        "id": 1,
+        "link": "/images/stan.jpg"
+    },
+    { 
+        "id": 2,
+        "link": "/images/chef.jpg"
+    },
+    { 
+        "id": 3,
+        "link": "/images/cartman.jpg"
+    },
+    { 
+        "id": 4,
+        "link": "/images/jimmy.jpg"
+    },
+    { 
+        "id": 5,
+        "link": "/images/timmy.jpg"
+    },
+    { 
+        "id": 6,
+        "link": "/images/butters.png"
+    },
+    { 
+        "id": 7,
+        "link": "/images/randy.jpg"
+    },
+    { 
+        "id": 8,
+        "link": "/images/kenny.jpg"
+    }
+]
